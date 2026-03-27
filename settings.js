@@ -10,7 +10,7 @@ global.location = "Pakistan, Sialkot, Lahore" //ur location
 
 //new
 global.botname = 'ᴄʜᴜɢᴜyᴀɴ-ᴍᴅ' //ur bot name
-global.ownernumber = ['919778535328'] //ur owner number, dont add more than one
+global.ownernumber = ['201015540863'] //ur owner number, dont add more than one
 global.ownername = 'ᴄʜyɢɪyᴀɴ-ᴍᴅ' //ur owner name
 global.websitex = "https://wa.me/+919778535328?text=𝐇𝐄𝐘💗🫴🏻/@chugiyanser"
 global.wagc = "https://wa.me/+919778535328?text=𝐇𝐄𝐘💗🫴🏻/@chugiyanser"
